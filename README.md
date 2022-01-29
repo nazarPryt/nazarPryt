@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nazarPryt
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on some project
+- 💞️ I’m looking for someone to collaborate on some project
 - 📫 How to reach me
 
 <!---
